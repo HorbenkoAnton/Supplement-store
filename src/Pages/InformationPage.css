@@ -1,0 +1,29 @@
+.information-page {
+  max-width: 800px;
+  margin: auto;
+  padding: 20px;
+  color: #000;
+}
+
+.information-page h1, .information-page h2 {
+  color: #000;
+  text-align: center;
+}
+
+section {
+  background-color: #f8f9fa;
+  border-left: 5px solid #007bff;
+  padding: 20px;
+  margin-bottom: 20px;
+  border-radius: 8px;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+p {
+  line-height: 1.6;
+  margin: 10px 0;
+}
+
+strong {
+  color: #333;
+}
